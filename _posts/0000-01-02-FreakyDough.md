@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+meow meow ima cow
 Use the left arrow to go back!
